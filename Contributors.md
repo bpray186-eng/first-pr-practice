@@ -1,9 +1,8 @@
 # Contributors
 
-Add your name to this list in alphabetical order.
+Microsoft leaders (sample), listed in alphabetical order.
 
-- Alex Rivera
-- Maria Chen
+- Amy Hood
+- Deb Cupp
+- Judson Althoff
 - Satya Nadella
-- Uma Patel
-- Wei Zhang
