@@ -15,3 +15,5 @@ For this exercise, keep the change intentionally small:
 Please do not edit unrelated files for this exercise. The intended pull request changes only `Contributors.md`.
 
 Before opening the pull request, read the diff. You should see one added line and no removed lines.
+
+After opening the pull request, read the automated check's comment. If a correction is needed, the comment includes a plain-English prompt you can paste into GitHub Copilot Chat. Ask Copilot to show you the corrected diff before it commits, then push the correction to the same branch. GitHub will update your existing pull request and run the check again.

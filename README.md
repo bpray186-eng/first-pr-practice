@@ -96,9 +96,11 @@ Check the pull request before creating it:
 
 ### 7. Wait For Review And Merge
 
-After you open the pull request, the maintainer will review the diff.
+After you open the pull request, an automated check reviews the diff. If the change follows the exercise rules, the check merges it. If something needs attention, a bot comment explains what happened and gives you a plain-English prompt you can paste into GitHub Copilot Chat.
 
-If the maintainer requests a change, come back to Copilot Chat and ask it to make that specific change on the same branch. When the pull request is approved and merged, your name will appear on `main` in the original repository.
+Make corrections on the same branch you already pushed. When you push another commit to that branch, GitHub updates the existing pull request and runs the check again. You do not need to open a replacement pull request.
+
+Before Copilot commits a correction, ask it to show you the diff. Confirm that your name appears once, is in alphabetical order, and that no unrelated files changed. When the pull request is merged, your name will appear on `main` in the original repository.
 
 ## What Good Looks Like
 
@@ -113,12 +115,13 @@ A good pull request for this exercise:
 
 ## Maintainer Notes
 
-For live workshops, review each pull request out loud:
+For live workshops, use the automated check as part of the lesson and review each pull request out loud:
 
 1. Confirm the PR targets `main` in this repository.
 2. Open the diff and confirm only `Contributors.md` changed.
 3. Confirm the new name is in alphabetical order.
-4. Merge the pull request.
-5. Delete the branch if GitHub offers the option.
+4. If the check requests a correction, read its explanation and Copilot prompt with the participant.
+5. Show how a push to the same branch updates the existing pull request.
+6. Confirm the check merges a valid contribution, or merge it manually if automation is unavailable.
 
 The merge is part of the lesson. Participants should see that their branch did not change `main` until the review step was complete.
