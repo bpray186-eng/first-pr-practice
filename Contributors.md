@@ -7,4 +7,5 @@ Microsoft leaders (sample), listed in alphabetical order.
 - Deb Cupp
 - John Gruhn
 - Judson Althoff
+- Ryan Birk
 - Satya Nadella
