@@ -3,6 +3,7 @@
 Microsoft leaders (sample), listed in alphabetical order.
 
 - Amy Hood
+- Andrey Sheremetinskiy
 - Arlie Hartman
 - Deb Cupp
 - Jack Moran
