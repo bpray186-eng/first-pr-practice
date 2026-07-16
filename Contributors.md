@@ -10,3 +10,4 @@ Microsoft leaders (sample), listed in alphabetical order.
 - Judson Althoff
 - Ryan Birk
 - Satya Nadella
+- Stephen Revel
